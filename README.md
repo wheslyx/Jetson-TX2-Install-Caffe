@@ -6,7 +6,9 @@ Installing Caffe v1 official release from BVLC in embedded device Nvidia Jetson 
 
 Official Caffe: https://caffe.berkeleyvision.org/
 
-## Getting Started: For JetPack L4T v4.2 as of latest August 2019 JetPack release Ubuntu 18.04 comes with OpenCV v3.3 (No CUDA support), c++ (Ubuntu/Linaro 7.4.0-1ubuntu1~18.04.1) 7.4.0, Python 3.6 and CUDA 9.0 with 7.x cuDNN
+## Getting Started: 
+
+For JetPack L4T v4.2 as of latest August 2019 JetPack release Ubuntu 18.04 comes with OpenCV v3.3 (No CUDA support), c++ (Ubuntu/Linaro 7.4.0-1ubuntu1~18.04.1) 7.4.0, Python 3.6 and CUDA 9.0 with 7.x cuDNN
 
 ### Prerequisites
 
